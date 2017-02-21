@@ -1,10 +1,10 @@
-Tsiklons-Macbook-Trackpad-Config
+MTrack-Config-MBP
 ================================
 
-Tsiklon's Linux Macbook trackpad config!
+My once used mtrack configuration on my old 2011 MacBook Pro.
 
-Mtrack is the driver
+Required Driver - Mtrack
 
-put it in /etc/X11/
-
-from a early 2011 15" Macbook Pro running OpenSuSE and Ubuntu.
+</b>Install</b>
+ - Clone repo 
+ - symlink the file to /etc/X11/xorg.conf.d/00_MBPtrackpad.conf  (need to clarify)
